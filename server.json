@@ -1,0 +1,68 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de app",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2022-08-22T16:09:31.093Z"
+    },
+    {
+      "id": 2,
+      "description": "Compra de app",
+      "type": "outcome",
+      "category": "Negócios",
+      "price": 50,
+      "createdAt": "2022-08-22T16:09:32.093Z"
+    },
+    {
+      "id": 3,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 40,
+      "createdAt": "2022-08-22T16:09:35.093Z"
+    },
+    {
+      "description": "fdfd",
+      "price": 122121,
+      "category": "fdfd",
+      "type": "outcome",
+      "createdAt": "2022-08-23T18:12:11.739Z",
+      "id": 4
+    },
+    {
+      "description": "fdfd",
+      "price": 122121,
+      "category": "fdfd",
+      "type": "outcome",
+      "createdAt": "2022-08-23T18:12:14.272Z",
+      "id": 5
+    },
+    {
+      "description": "fdfdfdfd",
+      "price": 122121,
+      "category": "fdfd",
+      "type": "income",
+      "createdAt": "2022-08-23T18:14:12.734Z",
+      "id": 6
+    },
+    {
+      "description": "fdfdfdfd",
+      "price": 122121,
+      "category": "fdfd",
+      "type": "outcome",
+      "createdAt": "2022-08-23T18:14:20.718Z",
+      "id": 7
+    },
+    {
+      "description": "fdfdfdfd",
+      "price": 122121,
+      "category": "fdfd",
+      "type": "outcome",
+      "createdAt": "2022-08-23T18:14:26.344Z",
+      "id": 8
+    }
+  ]
+}
